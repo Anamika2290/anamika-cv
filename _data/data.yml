@@ -4,44 +4,39 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pranjal Vatsa
-    tagline: Entrepreneur | Technical & Growth Product Manager
+    name: Anamika
+    tagline: ABAP Technical Architect
     avatar: profile_100x100.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: pranjalvatsa86@gmail.com
-    phone: +91 7022621989
-    website: speque.com #do not add http://
+    email: anamikasinha22290@gmail.com
+    phone: +91 9673070841
     linkedin: pranjal-vatsa
-    github: pranjalvatsa
-    telegram: # add your nickname without '@' sign
 
 
 career-profile:
     title: Career Profile
     summary: |
-      Results driven and seasoned professional with over 14 years of experience in product development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap & strategy.
+        Results-driven SAP ABAP Architect with 11+ years of experience in ABAP, OOPS ABAP, OData Services, and SAP module integrations. Proven expertise in designing and delivering enterprise-grade SAP solutions, leading cross-functional teams, and enhancing system efficiency. Adept at implementing scalable solutions, leading ABAP development projects, and ensuring compliance with the latest SAP standards. Proficient in workflow automation, system integration, and performance optimization.
 education:
     title: Education
     info:
-      - degree: MSc in Software Development
-        university: University of Glasgow
-        time: 2011 - 2012
       - degree: B.E. in Electrical & Electronics
-        university: Manipal University
+        university: University name
+        time: 2009 - 2013
 
 experiences:
     title: Experiences
     info:
-       - role: Deputy General Manager, Product
-         time: Mar '24 - Date
-         company: Hindustan Times Media
+       - role: Technology Lead, ABAP
+         time: Oct '13 - Date
+         company: Infosys
          details: |
            - Leading the VCC Edge product lifecycle management
            - Leveraging LLMs to build a company classification framework
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
-         company: Stanza Living, Gurugram
+         company: Infosys, Bangalore
          details: |
            - Led the development and execution of product roadmap for a Business Process Management platform, which optimized the development of business applications by over 50%
            - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
@@ -49,7 +44,7 @@ experiences:
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced revenue leakage by 20%.
        - role: Senior Product Manager  
          time: Feb '21 - Mar '22
-         company: LeadSquared, Bangalore
+         company: Infosys, Bangalore
          details: |
             - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b> for Developer Platform products 
             - Monitored KPIs, carried out competition analysis, and wrote user stories for products to solve developer problems
