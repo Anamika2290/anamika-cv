@@ -6,7 +6,7 @@ sidebar:
     # Profile information
     name: Anamika
     tagline: ABAP Technical Architect
-    avatar: profile_100x100.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: anamikasinha22290@gmail.com
